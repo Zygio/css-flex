@@ -1,0 +1,15 @@
+.small_box{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(63, 201, 219);
+    border: 1px solid rgb(10, 10, 10);
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
